@@ -9,8 +9,9 @@ const Hero = () => {
                 <button type='button' onClick={() => window.open('https://github.com/Md-Nur/SummarAIze')} className='black_btn'>Github</button></nav>
             <h1 className="head_text">
                 SummarAIze <br className='max-md:hidden' />
-                <span className="orange_gradient">Your AI-powered text summarization</span>
+                <span className="orange_gradient">Summarize smarter, not harder.</span>
             </h1>
+            <h2 className="desc">The AI-powered text summarization SaaS for researchers and writers, providing fast and reliable summaries for lengthy documents and web pages.</h2>
         </header>
 
     )
